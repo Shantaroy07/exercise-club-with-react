@@ -37,11 +37,3 @@
     transform: rotate(360deg);
   }
 }
-
-.person {
-  background-color: darksalmon;
-  padding: 20px;
-  border: 3px solid rebeccapurple;
-  margin: 10px;
-  border-radius: 20px;
-}
